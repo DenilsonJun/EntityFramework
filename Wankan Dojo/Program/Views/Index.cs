@@ -25,12 +25,20 @@ namespace Program.Views
         private void cadastroToolStripMenuItem_Click(object sender, EventArgs e)
         {
             CadastroAlunos CadastroDeAlunos = new CadastroAlunos();
+            CadastroDeAlunos.MdiParent = this;
             CadastroDeAlunos.Show();
         }
 
         private void alunosToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void alterarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AlterarAlunos AlterarAlunos = new AlterarAlunos();
+            AlterarAlunos.MdiParent = this;
+            AlterarAlunos.Show();
         }
     }
 }

@@ -87,6 +87,7 @@ namespace Program.Views
             this.alterarToolStripMenuItem.Name = "alterarToolStripMenuItem";
             this.alterarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.alterarToolStripMenuItem.Text = "Alterar";
+            this.alterarToolStripMenuItem.Click += new System.EventHandler(this.alterarToolStripMenuItem_Click);
             // 
             // statusToolStripMenuItem
             // 

@@ -121,16 +121,6 @@
     <value>17, 17</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="alunosToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAPFJREFUSEvt
-        kjFqAkEYRlfSpDRlwJjGG1gLQhoRPEzS5A7BA9ilscg5BFFyhVRBVOy8QIjvxR2YrBuYFGuhPnjs7Pf/
-        /w47u9mF86aOI1zlujaTB9xiMU/mCmf4XdDM2jUu8yzOk+mjgx/YynVtZk3eMGwQ50k8oUPDn7s9rs2s
-        yQvGG4Q8icrfoPJvIJX+RUfjFtvYxYZBCTf5NZkBvuIa4/NXM2v2BDq4wDH2sIal3OEc4wdu0A+oruOa
-        vc7IM4b8HZt4wARt+MRHvMciZtbssdcZ8fjCBjrFA74wbkrRGfFYyvJfxA3/MfBXfuG0ybIdE7Z+OEtG
-        FBgAAAAASUVORK5CYII=
-</value>
-  </data>
   <data name="cadastroToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAM5JREFUSEvt
@@ -146,6 +136,16 @@
         kcEJgDAQBM/qLEOrEIQ04NsObcKX6K7mJAT9xIuvGxhMIuzGU5w/aOECp3NnDMNXuEdnaMoINVw1+RLe
         vLuWEmBawHF9QseywZ4HQEt4zvfF5DNPSzgus3D+zCGu05Ji8vAmPrk3HYuH33j4K1XDCcNolXCiBapp
         OKka7jwgcgDHsFrVOXhGVQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="alunosToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAPFJREFUSEvt
+        kjFqAkEYRlfSpDRlwJjGG1gLQhoRPEzS5A7BA9ilscg5BFFyhVRBVOy8QIjvxR2YrBuYFGuhPnjs7Pf/
+        /w47u9mF86aOI1zlujaTB9xiMU/mCmf4XdDM2jUu8yzOk+mjgx/YynVtZk3eMGwQ50k8oUPDn7s9rs2s
+        yQvGG4Q8icrfoPJvIJX+RUfjFtvYxYZBCTf5NZkBvuIa4/NXM2v2BDq4wDH2sIal3OEc4wdu0A+oruOa
+        vc7IM4b8HZt4wARt+MRHvMciZtbssdcZ8fjCBjrFA74wbkrRGfFYyvJfxA3/MfBXfuG0ybIdE7Z+OEtG
+        FBgAAAAASUVORK5CYII=
 </value>
   </data>
   <metadata name="statusStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
